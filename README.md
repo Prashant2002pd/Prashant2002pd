@@ -4,7 +4,7 @@ Hey there! I'm Prashant singh, a passionate Computer Science student with a knac
 
 ## 🔧 Technologies & Tools
 - **Languages:** C/C++, Python, Dart (Flutter)
-- **Game Dev:** C++,Raylib[https://www.raylib.com/]
+- **Game Dev:** C++,Raylib(https://www.raylib.com/)
 - **Mobile:** Flutter for Android development
 
 ## 🌟 What I Do
