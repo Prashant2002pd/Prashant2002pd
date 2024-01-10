@@ -28,7 +28,7 @@ I proudly showcase my collection of holo pin badges, each telling a unique story
 
 
 ## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/prashant-singh-a54b70229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-a54b70229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: prashant2002singh915@gmail.com
 
 Let's build something incredible together! 💻✨
