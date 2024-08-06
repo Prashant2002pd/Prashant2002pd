@@ -25,6 +25,8 @@ When I'm not coding, you'll probably find me immersed in the world of gaming. Fr
 ## 🌈 Holo Pin Badge Collector
 I proudly showcase my collection of holo pin badges, each telling a unique story. 🌟✨
 [![An image of @prashant2002pd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashant2002pd)](https://holopin.io/@prashant2002pd)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashant2002pd)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📫 Get in Touch
