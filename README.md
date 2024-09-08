@@ -6,6 +6,7 @@ Hey there! I'm Prashant singh, a passionate Computer Science student with a knac
 - **Languages:** C/C++, Python, Dart (Flutter)
 - **Game Dev:** C++,Raylib
 - **Mobile:** Flutter for Android development
+- **Web:** React,Next,Node
 
 ## 🌟 What I Do
 I'm not just a coder; I'm a creator. From crafting efficient algorithms to developing sleek Android applications and diving into the world of game development, I bring ideas to life with lines of code.
@@ -15,9 +16,10 @@ I'm not just a coder; I'm a creator. From crafting efficient algorithms to devel
 - Software Development
 - Mobile App Development
 - Game Development
+- Web Development
 
 ## 📚 What I'm Learning
-Currently, I'm diving deeper into Flutter.
+Currently, I'm diving deeper into Next.js.
 
 ## 🎮 Let's Play!
 When I'm not coding, you'll probably find me immersed in the world of gaming. From creating games to enjoying the latest releases, I'm always up for a gaming adventure.
