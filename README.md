@@ -18,7 +18,7 @@ I'm not just a coder; I'm a creator. From crafting efficient algorithms to devel
 - Game Development
 - Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,kali,git,linux,mongodb,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,kali,git,linux,mongodb,mysql,react,dart,flutter)](https://skillicons.dev)
 
 ## 📚 What I'm Learning
 Currently, I'm diving deeper into Next.js.
